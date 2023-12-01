@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on games development <br>🌱 I’m currently learning Godot 4 and Unreal Engine<br>💬 Ask me about games creation<br>⚡ Fun fact - Cofee addict
+🔭 I’m currently working on games development <br>🌱 I’m currently learning Godot 4 and Unreal Engine<br>💬 Ask me about games creation<br>⚡ Fun fact - Cofee addict<br> My second account is theotrp (Epitech Github Account)
 
 
 ## 🌐 Socials:
