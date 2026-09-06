@@ -2,7 +2,7 @@
 
 # Hey, I'm Théo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Mobile+%26+Game+Dev;Coffee+Addict+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Mobile+%26+Game+Dev;Monster+White+Addict+%E2%98%95)](https://git.io/typing-svg)
 
 *Alumni Epitech Paris — Promo 2025*
 
