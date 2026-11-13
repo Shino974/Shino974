@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=180&section=header&text=Théo%20Turpin&fontSize=48&fontColor=f8f8f2&fontAlignY=38&desc=Fullstack%20Developer%20·%20Android%20%26%20Game%20Development&descAlignY=58&descSize=18" alt="Théo Turpin" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=180&section=header&text=Théo%20Turpin&fontSize=48&fontColor=f8f8f2&fontAlignY=38&desc=Fullstack%20Developer%20·%20Android%20and%20Game%20Development&descAlignY=58&descSize=18" alt="Théo Turpin" />
 
 <a href="https://theoturpin.fr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Fullstack+web+%26+mobile+developer;Android+apps+with+Kotlin+%26+Jetpack+Compose;Games+with+Unity+%26+C%23;Epitech+Paris+Alumni+%E2%80%94+Promo+2025" alt="Typing SVG" />
