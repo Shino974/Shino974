@@ -1,19 +1,22 @@
 <div align="center">
 
-# Théo Turpin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=180&section=header&text=Théo%20Turpin&fontSize=48&fontColor=f8f8f2&fontAlignY=38&desc=Fullstack%20Developer%20·%20Android%20%26%20Game%20Development&descAlignY=58&descSize=18" alt="Théo Turpin" />
 
-### Fullstack Developer · Android & Game Development
+<a href="https://theoturpin.fr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Fullstack+web+%26+mobile+developer;Android+apps+with+Kotlin+%26+Jetpack+Compose;Games+with+Unity+%26+C%23;Epitech+Paris+Alumni+%E2%80%94+Promo+2025" alt="Typing SVG" />
+</a>
 
-*Epitech Paris Alumni — Promo 2025*
+<br />
 
-[![Website](https://img.shields.io/badge/Portfolio-theoturpin.fr-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://theoturpin.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-theoturpin.fr-bd93f9?style=for-the-badge&logo=firefox&logoColor=white)](https://theoturpin.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Théo_Turpin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/théo-turpin/)
+![Profile views](https://komarev.com/ghpvc/?username=Shino974&style=for-the-badge&color=bd93f9&label=Profile+views)
 
 </div>
 
 ---
 
-## About
+## 👋 About me
 
 Fullstack web and mobile developer with a strong interest in game development. I build production-ready applications end to end, from the interface to the backend, and I publish my work on the Google Play Store.
 
@@ -21,51 +24,78 @@ Fullstack web and mobile developer with a strong interest in game development. I
 - 📱 Native Android development with **Kotlin** and **Jetpack Compose**
 - 🌐 Web applications with **React**, **TypeScript** and **Node.js**
 - 🎮 Game development with **Unity** and **C#**, currently exploring **Godot 4** and **Unreal Engine**
+- 📫 Open to opportunities — reach me via my [portfolio](https://theoturpin.fr) or [LinkedIn](https://www.linkedin.com/in/théo-turpin/)
 
 ---
 
-## Featured Projects
+## 🚀 Featured projects
 
-### 📱 Jobico — Job Application Tracker
-Android app that helps job seekers organize their search: application tracking, streaks, statistics, home screen widget and cloud synchronization.
-
-**Stack:** Kotlin · Jetpack Compose · Firebase
-**Status:** Published on the Google Play Store
-
-### 🏚️ The Thaco's Mansion — Video Game
-Puzzle and exploration game set in a mysterious mansion full of secrets.
-
-**Stack:** Unity · C#
-**Status:** In development
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Jobico</h3>
+      <p><em>Job application tracker</em></p>
+      <p>Android app that helps job seekers organize their search: application tracking, streaks, statistics, home screen widget and cloud synchronization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      </p>
+      <p>✅ <strong>Published on the Google Play Store</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏚️ The Thaco's Mansion</h3>
+      <p><em>Video game</em></p>
+      <p>Puzzle and exploration game set in a mysterious mansion full of secrets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      </p>
+      <p>🛠️ <strong>In development</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Tech Stack
-
-| Domain | Technologies |
-| --- | --- |
-| **Web** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Game Dev** | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal-313131?logo=unrealengine&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) |
-| **Tools** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) |
-
----
-
-## GitHub Activity
+## 🧰 Tech stack
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shino974&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shino974&theme=dracula&hide_border=true&layout=compact" />
+**🌐 Web**
 
-<img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shino974&theme=dracula&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css&theme=dark" alt="Web stack" />
+
+**📱 Mobile**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase&theme=dark" alt="Mobile stack" />
+
+**🎮 Game Dev**
+
+<img src="https://skillicons.dev/icons?i=unity,cs,godot,unreal,lua,blender&theme=dark" alt="Game dev stack" />
+
+**🔧 Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=c,py,git,figma,linux&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
+## 📊 GitHub activity
+
 <div align="center">
 
-📫 Open to opportunities — reach me via my [portfolio](https://theoturpin.fr) or [LinkedIn](https://www.linkedin.com/in/théo-turpin/).
+<img width="100%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shino974&theme=dracula" />
+
+<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shino974&theme=dracula" />
+<img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shino974&theme=dracula" />
+
+<img width="49%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shino974&theme=dracula" />
+<img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shino974&theme=dracula&timeZone=Europe/Paris" />
+
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Shino974&theme=dracula&hide_border=true" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:282a36&height=100&section=footer" alt="" />
